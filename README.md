@@ -473,11 +473,11 @@ model.save("Simple_RNN_3.h5")
 
 </div>
 
-<audio controls=""><source src="moonlight_sonata_bach.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+<audio controls=""><source src="https://github.com/Pudkip/Bach-Bot/blob/master/moonlight_sonata_bach.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
 ...and compared to the stripped, time-constant version of the original:
 
-<audio controls=""><source src="moonlight_sonata_augmented.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+<audio controls=""><source src="https://github.com/Pudkip/Bach-Bot/blob/master/moonlight_sonata_augmented.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
 </div>
 
